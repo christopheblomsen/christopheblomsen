@@ -9,9 +9,9 @@
 
 ### 🤝 Connect with me:
  <a href="https://www.linkedin.com/in/christophe-kristian-blomsen-791948246/"><img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Christophe Blomsen | LinkedIn"/></a>
-<a href="https://www.instagram.com/trick.chris/"><img align="left" height="40" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Christophe Blomsen | Instagram" /></a> <br/>
+<a href="https://www.instagram.com/trick.chris/"><img align="left" height="40" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Christophe Blomsen | Instagram" /></a>
 
-👉🏻 ![Visitor Count](https://profile-counter.glitch.me/christopheblomsen/count.svg)<br/>
+
 
 **Language**<br/>
 <code><img height="40" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/cplusplus.png" /></code>
@@ -26,3 +26,5 @@
 
 **📈 Github stats**<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=christopheblomsen&show_icons=true"/>
+
+👉🏻 ![Visitor Count](https://profile-counter.glitch.me/christopheblomsen/count.svg)
