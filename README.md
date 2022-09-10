@@ -8,12 +8,12 @@
 
 👉🏻 ![Visitor Count](https://profile-counter.glitch.me/christopheblomsen/count.svg)
 
-**Language**
+**Language**<br/>
 <code><img height="30" src="https://raw.githubusercontent.com/christopheblomsen/christopheblomsen/blob/main/images/c-logo-icon-28389.png"></code>
 
-**Tools**
+**Tools**<br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 
-[![Christophe's github stats](https://github-readme-stats.vercel.app/api?username=chri christopheblomsen&show_icons=true&theme=merko)](https://github.com/christopheblomsen)
+[![Christophe's github stats]<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true"/>]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopheblomsen&layout=compact&theme=merko)](https://github.com/christopheblomsen/github-readme-stats) 
