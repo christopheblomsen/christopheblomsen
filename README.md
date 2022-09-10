@@ -9,8 +9,7 @@
 
 ### 🤝 Connect with me:
  <a href="https://www.linkedin.com/in/christophe-kristian-blomsen-791948246/"><img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Christophe Blomsen | LinkedIn"/></a>
-<a href="https://www.instagram.com/trick.chris/"><img align="left" height="40" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Christophe Blomsen | Instagram" /></a>
-
+<a href="https://www.instagram.com/trick.chris/"><img align="left" height="40" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Christophe Blomsen | Instagram" /></a><br/>
 
 
 ### Languages
